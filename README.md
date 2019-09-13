@@ -6,8 +6,8 @@
 4. Download Android Studio and import the project
 
 To-Do List
--Need to add new design
--Need appropriate images for design
--Add basic UI features, such as transitions and recognition(like holding a button)
--Under Values folder need to add duas from execl, currently added morning_evening.xml as basic example
--More to come
+- Need to add new design
+- Need appropriate images for design
+- Add basic UI features, such as transitions and recognition(like holding a button)
+- Under Values folder need to add duas from execl, currently added morning_evening.xml as basic example
+- More to come
