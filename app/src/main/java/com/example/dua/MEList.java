@@ -28,7 +28,7 @@ public class MEList extends AppCompatActivity {
         String count = null;
         int counter = 0;
         final ArrayList<Dua> duas = new ArrayList<>();
-        String[] starry = getResources().getStringArray(R.array.array);
+        String[] starry = getResources().getStringArray(R.array.m_e_Array);
         for (String s : starry) {
             System.out.println(s);
             switch (counter) {
