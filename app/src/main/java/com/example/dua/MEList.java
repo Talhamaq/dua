@@ -27,7 +27,7 @@ public class MEList extends AppCompatActivity {
         String reference = null;
         String count = null;
         int counter = 0;
-        ArrayList<Dua> duas = new ArrayList<>();
+        final ArrayList<Dua> duas = new ArrayList<>();
         String[] starry = getResources().getStringArray(R.array.array);
         for (String s : starry) {
             System.out.println(s);
@@ -73,7 +73,10 @@ public class MEList extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
     
-                startActivity(new Intent(MEList.this, duaPage.class));
+                Intent intent=(new Intent(MEList.this, duaPage.class));
+                intent.putExtra("object", duas.get(position));
+                startActivity(intent);
+    
     
             }
             

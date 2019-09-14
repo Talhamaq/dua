@@ -1,6 +1,9 @@
 package com.example.dua;
 
-public class Dua {
+import android.os.Parcel;
+import android.os.Parcelable;
+
+public class Dua implements Parcelable {
 
     private String name;
     private String arabic;
@@ -67,4 +70,38 @@ public class Dua {
     }
     
     
+    @Override
+    public int describeContents() {
+        return 0;
+    }
+    
+    @Override
+    public void writeToParcel(Parcel dest, int flags) {
+        dest.writeString(name);
+        dest.writeString(arabic);
+        dest.writeString(arabish);
+        dest.writeString(translation);
+        dest.writeString(reference);
+        dest.writeString(count);
+        
+    }
+    public static final Parcelable.Creator<Dua> CREATOR = new Parcelable.Creator<Dua>() {
+        public Dua createFromParcel(Parcel in) {
+            return new Dua(in);
+        }
+        
+        public Dua[] newArray(int size) {
+            return new Dua[size];
+        }
+    };
+    
+    // example constructor that takes a Parcel and gives you an object populated with it's values
+    private Dua(Parcel in) {
+        name = in.readString();
+        arabic = in.readString();
+        arabish = in.readString();
+        translation = in.readString();
+        reference = in.readString();
+        count = in.readString();
+    }
 }
