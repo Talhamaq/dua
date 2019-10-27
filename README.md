@@ -11,3 +11,6 @@ To-Do List
 - Add basic UI features, such as transitions and recognition(like holding a button)
 - Under Values folder need to add duas from execl, currently added morning_evening.xml as basic example
 - More to come
+
+Future Suggestions 
+
