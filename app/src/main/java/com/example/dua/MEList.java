@@ -12,13 +12,14 @@ import java.util.List;
 
 public class MEList extends AppCompatActivity {
     ListView list;
-    final Intent intent = getIntent();
-    //String category = intent.getStringExtra("name");
+    
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_melist);
+        Intent intent = getIntent();
+        int category = intent.getIntExtra("name",-1);
         list = findViewById(R.id.list);
         String name = null;
         String arabic = null;
@@ -28,9 +29,9 @@ public class MEList extends AppCompatActivity {
         String count = null;
         int counter = 0;
         final ArrayList<Dua> duas = new ArrayList<>();
-        String[] starry = getResources().getStringArray(R.array.m_e_Array);
+        String[] starry = getResources().getStringArray(category);
         for (String s : starry) {
-            System.out.println(s);
+            //System.out.println(s);
             switch (counter) {
                 case 0:
                     name = s;
@@ -53,7 +54,7 @@ public class MEList extends AppCompatActivity {
                     counter++;
                     break;
                 case 5:
-                    System.out.println(s);
+                   // System.out.println(s);
                     count = s;
                     counter++;
                     break;
@@ -65,7 +66,7 @@ public class MEList extends AppCompatActivity {
             }
             
         }
-        System.out.println(duas.size());
+       // System.out.println(duas.size());
         CustomAdapter customAdapter = new CustomAdapter(this, duas);
         list.setAdapter(customAdapter);
         
