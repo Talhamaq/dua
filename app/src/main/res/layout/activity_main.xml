@@ -6,28 +6,29 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:background="@drawable/homebackground1"
+    android:background="#c2dde6"
     android:weightSum="10">
 
-        <RelativeLayout
-            android:layout_weight="2"
-            android:layout_width="match_parent"
-            android:layout_height="0dp">
-            <TextView
-                android:id="@+id/header"
-                android:layout_height="wrap_content"
-                android:layout_width="wrap_content"
-                android:textSize="34sp"
-                android:layout_centerInParent="true"
-                android:textColor="@android:color/white"
-                android:text="DUA" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:layout_weight="1">
 
-        </RelativeLayout>
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="DUA"
+            android:textColor="@android:color/white"
+            android:textSize="34sp" />
+
+    </RelativeLayout>
 
     <GridLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="8"
+        android:layout_weight="9"
         android:alignmentMode="alignMargins"
         android:columnCount="2"
         android:rowCount="3"
@@ -35,19 +36,21 @@
 
 
         <!-- Row 1, Column 1 -->
+
         <androidx.cardview.widget.CardView
             android:id="@+id/evening"
-            android:onClick="onClicked"
             android:layout_width="0dp"
             android:layout_height="0dp"
+            android:layout_row="0"
             android:layout_rowWeight="1"
+            android:layout_column="0"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
+            android:onClick="onClicked"
             app:cardCornerRadius="8dp"
-            app:cardElevation="8dp"
-        >
+            app:cardElevation="8dp">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -60,11 +63,11 @@
                     android:layout_width="124dp"
                     android:layout_height="82dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/imu" />
+                    android:src="@mipmap/sun" />
 
                 <TextView
                     android:layout_width="wrap_content"
-                    android:layout_height="63dp"
+                    android:layout_height="70dp"
                     android:text="Morning and Evening Dua"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
@@ -76,13 +79,13 @@
         <androidx.cardview.widget.CardView
             android:id="@+id/Daily"
             android:layout_width="0dp"
-            android:onClick="onClicked"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
+            android:onClick="onClicked"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -97,7 +100,7 @@
                     android:layout_width="115dp"
                     android:layout_height="90dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/light"
+                    android:src="@mipmap/daily"
                     android:visibility="visible" />
 
                 <TextView
@@ -116,11 +119,11 @@
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
-            android:onClick="onClicked"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
+            android:onClick="onClicked"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -135,7 +138,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="90dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/sun" />
+                    android:src="@mipmap/rain" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -153,11 +156,11 @@
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
-            android:onClick="onClicked"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
+            android:onClick="onClicked"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -172,7 +175,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="90dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/toolbox" />
+                    android:src="@mipmap/kaaba" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -191,10 +194,10 @@
             android:layout_height="0dp"
             android:layout_rowWeight="1"
             android:layout_columnWeight="1"
-            android:onClick="onClicked"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
+            android:onClick="onClicked"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -209,7 +212,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="90dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/shuffle" />
+                    android:src="@mipmap/hands" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -227,11 +230,11 @@
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
-            android:onClick="onClicked"
             android:layout_columnWeight="1"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="16dp"
+            android:onClick="onClicked"
             app:cardCornerRadius="8dp"
             app:cardElevation="8dp">
 
@@ -246,7 +249,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="83dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/sunset" />
+                    android:src="@mipmap/hard" />
 
                 <TextView
                     android:layout_width="wrap_content"

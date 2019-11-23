@@ -10,6 +10,8 @@
     </style>
 -->
     <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorPrimary">@color/Black</item>
+
 
     </style>
 </resources>
