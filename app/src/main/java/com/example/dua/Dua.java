@@ -104,4 +104,14 @@ public class Dua implements Parcelable {
         reference = in.readString();
         count = in.readString();
     }
-}
+    @Override
+    public boolean equals(Object o) {
+        if (o instanceof Dua) {
+            Dua c = (Dua) o;
+            if (this.getName().equals( c.getName()))
+                return true;
+        }
+        return false;
+        
+    }
+    }

@@ -74,6 +74,9 @@ public class MEList extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
     
                 Intent intent=(new Intent(MEList.this, duaPage.class));
+                Bundle bundle = new Bundle();
+                bundle.putParcelableArrayList("list", duas);
+                intent.putExtras(bundle);
                 intent.putExtra("object", duas.get(position));
                 startActivity(intent);
     
