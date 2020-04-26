@@ -59,10 +59,26 @@ class CustomAdapter implements ListAdapter {
         TextView titleText =  rowView.findViewById(R.id.title);
         ImageView imageView =  rowView.findViewById(R.id.icon);
         TextView subtitleText = rowView.findViewById(R.id.subtitle);
-    
-        titleText.setText(dua.getName());
-        imageView.setImageResource(R.drawable.sunset);
-        subtitleText.setText(dua.getCount());
+        String sub;
+        if(dua.getCount().equals("1"))
+            sub="Recite "+dua.getCount()+" time";
+        else
+            sub="Recite "+dua.getCount()+" times";
+        String name=dua.getNumber()+". "+dua.getName();
+        titleText.setText(name);
+        if(dua.getCategory().equals("morning_evening"))
+            imageView.setImageResource(R.mipmap.sun);
+        else if(dua.getCategory().equals("Daily"))
+            imageView.setImageResource(R.mipmap.daily);
+        else if(dua.getCategory().equals("special"))
+            imageView.setImageResource(R.mipmap.rain);
+        else if(dua.getCategory().equals("Dhikr"))
+            imageView.setImageResource(R.mipmap.kaaba);
+        else if(dua.getCategory().equals("Prophets"))
+            imageView.setImageResource(R.mipmap.hands);
+        else if(dua.getCategory().equals("Hard_times"))
+            imageView.setImageResource(R.mipmap.hard);
+        subtitleText.setText(sub);
     
         return rowView;
     }

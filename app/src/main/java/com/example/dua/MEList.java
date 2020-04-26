@@ -18,7 +18,7 @@ public class MEList extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_melist);
         Intent intent = getIntent();
-        int category = intent.getIntExtra("name",-1);
+        int numCategory = intent.getIntExtra("name",-1);
         list = findViewById(R.id.list);
         String name = null;
         String arabic = null;
@@ -26,9 +26,23 @@ public class MEList extends AppCompatActivity {
         String translation = null;
         String reference = null;
         String count = null;
+        String category= null;
         int counter = 0;
+        if(numCategory==2130903043)
+            category="morning_evening";
+        else if(numCategory==2130903040)
+            category="Daily";
+        else if(numCategory==2130903045)
+            category="special";
+        else if(numCategory==2130903041)
+            category="Dhikr";
+        else if(numCategory==2130903044)
+            category="Prophets";
+        else if(numCategory==2130903042)
+            category="Hard_times";
         final ArrayList<Dua> duas = new ArrayList<>();
-        String[] starry = getResources().getStringArray(category);
+        String[] starry = getResources().getStringArray(numCategory);
+        int duaNum=0;
         for (String s : starry) {
             //System.out.println(s);
             switch (counter) {
@@ -60,7 +74,8 @@ public class MEList extends AppCompatActivity {
     
                 default:
                     counter = 0;
-                    duas.add(new Dua(name, arabic, arabish, translation, reference, count));
+                    duaNum++;
+                    duas.add(new Dua(name, arabic, arabish, translation, reference, count,category,Integer.toString(duaNum)));
                     break;
             }
             
