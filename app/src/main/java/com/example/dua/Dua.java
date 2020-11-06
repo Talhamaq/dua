@@ -13,8 +13,9 @@ public class Dua implements Parcelable {
     private String count;
     private String category;
     private String number;
+    private String favorite;
     
-    public Dua(String name, String arabic, String arabish, String translation, String reference, String count, String category, String number) {
+    public Dua(String name, String arabic, String arabish, String translation, String reference, String count, String category, String number,String favorite) {
         this.name = name;
         this.arabic = arabic;
         this.arabish = arabish;
@@ -23,6 +24,7 @@ public class Dua implements Parcelable {
         this.count = count;
         this.category=category;
         this.number=number;
+        this.favorite=favorite;
     }
     
     public String getName() {
@@ -86,6 +88,13 @@ public class Dua implements Parcelable {
     public void setNumber(String number) {
         this.number = number;
     }
+    public String getFavorite() {
+        return favorite;
+    }
+    
+    public void setFavorite(String favorite) {
+        this.favorite = favorite;
+    }
     
     
     @Override
@@ -102,6 +111,8 @@ public class Dua implements Parcelable {
         dest.writeString(reference);
         dest.writeString(count);
         dest.writeString(category);
+        dest.writeString(number);
+        dest.writeString(favorite);
         
     }
     public static final Parcelable.Creator<Dua> CREATOR = new Parcelable.Creator<Dua>() {
@@ -123,6 +134,8 @@ public class Dua implements Parcelable {
         reference = in.readString();
         count = in.readString();
         category=in.readString();
+        number=in.readString();
+        favorite=in.readString();
     }
     @Override
     public boolean equals(Object o) {

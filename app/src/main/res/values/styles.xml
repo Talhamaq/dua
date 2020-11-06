@@ -9,8 +9,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 -->
-    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
-        <item name="colorPrimary">@color/Black</item>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
 
 
     </style>

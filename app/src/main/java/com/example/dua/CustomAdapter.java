@@ -6,6 +6,7 @@ import android.database.DataSetObserver;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListAdapter;
 import android.widget.TextView;
@@ -13,7 +14,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-class CustomAdapter implements ListAdapter {
+class CustomAdapter extends BaseAdapter {
    private ArrayList<Dua> duas=new ArrayList<>();
     Activity context;
     public CustomAdapter(Activity context, ArrayList<Dua> arrayList) {
