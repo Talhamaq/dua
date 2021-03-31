@@ -12,6 +12,7 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.google.android.material.appbar.MaterialToolbar;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
@@ -21,6 +22,7 @@ import java.util.ArrayList;
 public class MEList extends AppCompatActivity {
     ListView list;
     String Category;
+    String subCategory;
     ArrayList<Dua> duas;
     ArrayList<Dua> duaForCategory;
     boolean isResume=false;
@@ -30,8 +32,32 @@ public class MEList extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_melist);
         Intent intent = getIntent();
-         Category = intent.getStringExtra("name");
+        Category = intent.getStringExtra("name");
+        subCategory = intent.getStringExtra("subCategory");
         list = findViewById(R.id.list);
+        MaterialToolbar appBar=findViewById(R.id.topAppBar);
+        switch (Category){
+            case "morning_evening":
+                appBar.setTitle("Morning/Evening Duas");
+                break;
+            case "Daily":
+                appBar.setTitle("Daily Duas");
+                break;
+            case "special":
+                appBar.setTitle("Special Duas");
+                break;
+            case "after_prayer":
+                appBar.setTitle("Dua after Prayer");
+                break;
+            case "prophet":
+                appBar.setTitle("Prophet Duas");
+                break;
+            case "favorites":
+                appBar.setTitle("Favorites Duas");
+                break;
+    
+        }
+        
 //        String name = null;
 //        String arabic = null;
 //        String arabish = null;
@@ -142,7 +168,14 @@ public class MEList extends AppCompatActivity {
     
     private ArrayList<Dua> setCategoryArray(String category, ArrayList<Dua> duas) {
         ArrayList<Dua> duaForCategory = new ArrayList<>();
-        if(!category.equals("favorites")) {
+        if(category.equals("Daily")) {
+            for (Dua dua : duas) {
+                if (dua.getCategory().equals(category))
+                    if(dua.getSubCategory().equals(subCategory))
+                        duaForCategory.add(dua);
+            }
+        }
+       else if(!category.equals("favorites")) {
             for (Dua dua : duas) {
                 if (dua.getCategory().equals(category))
                     duaForCategory.add(dua);

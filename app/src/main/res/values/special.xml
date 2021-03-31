@@ -1,6 +1,307 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="special_array">
+        <item>Dua for traveling 1</item>
+        <item>"اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، ﴿سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنقَلِبُونَ﴾ اللَّهُمَّ إِنّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا البِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَليفَةُ فِي الْأَهْلِ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ، وَكَآبَةِ الْمَنْظَرِ، وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالْأَهْلِ""، وإذا رَجَعَ قَالَهُنَّ وَزَادَ فِيهِنَّ آيِبُونَ، تائِبُونَ،عَابِدُونَ، لِرَبِّنَا حَامِدُون"</item>
+        <item>"Allaahu \'Akbar, Allaahu \'Akbar, Allaahu \'Akbar, Subhaanal-lathee sakhkhara
+lanaa haathaa wa maa kunnaa lahu muqrineen. Wa \'innaa \'ilaa Rabbinaa
+lamunqaliboon. Allaahumma \'innaa nas\'aluka fee safarinaa
+haathal-birrawattaqwaa, waminal-\'amalimaa tardhaa, Allaahumma hawwin
+\'alaynaa safaranaa haathaa watwi \'annaa bu\'dahu, Allaahumma \'Antas-saahibu
+fis-safari, walkhaleefatu fil-\'ahli, Allaahumma \'innee \'a\'oothu bika min
+wa\'thaa\'is-safari, wa ka\'aabanl-mandhari, wa soo\'il-munqalabi
+fil-maaliwal\'ahli.
+(Upon returning recite the same again adding :)
+\'Aa\'iboona, taa\'iboona, \'aabidoona, Lirabbinaa haamidoon."</item>
+        <item>"Allah is the Most Great. Allah is the Most Great. Allah is the Most Great.
+Glory is to Him Who has provided this for us though we could never have had
+it by our efforts. Surely, unto our Lord we are returning. O Allah, we ask
+You on this our journey for goodness and piety, and for works that are
+pleasing to You . O Allah , lighten this journey for us and make its
+distance easy for us . O Allah, You are our Companion on the road and the
+One in Whose care we leave our family . O Allah , I seek refuge in You from
+this journey\'s hardships, and from the wicked sights in store and from
+finding our family and property in misfortune upon returning.
+(Upon returning recite the same again adding :)
+We return repentant to our Lord, worshipping our Lord, and praising our
+Lord."</item>
+        <item>Muslim 2/978</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>After Rainfall  	</item>
+        <item>مُطِرْنَا بِفَضْلِ اللهِ وَ رَحْمَتِهِ</item>
+        <item>Mutirnaa bifadhlillaahi wa rahmatihi.</item>
+        <item>We have been given rain by the grace and mercy of Allah.</item>
+        <item>Al-Bukhari 1:205, Muslim 1:83</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>After Rainfall 2</item>
+        <item>اللّهُمَّ صَيِّـباً نافِـعاً</item>
+        <item>Allaahumma sayyiban naafi\'an</item>
+        <item>O Allah, (bring) beneficial rain clouds</item>
+        <item>Al-Bukhari 2:158</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>After Rainfall 3</item>
+        <item>اللّهُمَّ حَوالَيْنا وَلا عَلَيْـنَا، اللّهُمَّ عَلى الآكَـامِ وَالظِّـرابِ، وَبُطُـونِِ الأوْدِيةِ، وَمَنـابِِتِ الشَّجَـرِ </item>
+        <item>Allaahumma hawaalaynaa wa laa \'alaynaa. Allaahumma \'alal-\'aakaami wadh-dhiraabi, wa butoonil-\'awdiyati, wa manaabitish-shajari</item>
+        <item>O Allah, let it pass us and not fall upon us, but upon the hills and mountains, and the center of the valleys, and upon the forested lands.</item>
+        <item>Al-Bukhari 1:224, Muslim 1:614</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Asking Allah to grant you a child</item>
+        <item>رَبِّ ھَبْ لِيْ مِنْ لَّدُنْكَ ذُرِّيَّةً طَيِّبَةً ۚ اِنَّكَ سَمِيْعُ الدُّعَاۗءِ</item>
+        <item>Rabbi Hab Lee Mil Ladunka D’urriyyatan T’ayyibah Innaka Samee-u’d Du’aa</item>
+        <item>O my Lord! Grant me from You, a good offspring. You are indeed the All-Hearer of invocation.</item>
+        <item>Surah Al-Imran - 3:38</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Asking Allah to grant you a child</item>
+        <item>رَبِّ لَا تَذَرْنِيْ فَرْدًا وَّاَنْتَ خَيْرُ الْوٰرِثِيْنَ</item>
+        <item>"Rabbi Laa Tad’arnee Fardaw wa Anta Khayrul Waaritheen"</item>
+        <item>O My Lord! Leave me not single (childless), though You are the Best of the inheritors.</item>
+        <item>Surah Al-Anbiya - 21:89</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Dua e Qunoot (recited in Witr prayer)</item>
+        <item>اَللَّهُمَّ إنا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ وَنُثْنِئْ عَلَيْكَ الخَيْرَ وَنَشْكُرُكَ وَلَا نَكْفُرُكَ وَنَخْلَعُ وَنَتْرُكُ مَنْ ئَّفْجُرُكَ اَللَّهُمَّ إِيَّاكَ نَعْبُدُ وَلَكَ نُصَلِّئ وَنَسْجُدُ وَإِلَيْكَ نَسْعأئ وَنَحْفِدُ وَنَرْجُو رَحْمَتَكَ وَنَخْشآئ عَذَابَكَ إِنَّ عَذَابَكَ بِالكُفَّارِ مُلْحَقٌ</item>
+        <item>Allah humma inna nasta-eenoka wa nastaghfiruka wa nu\'minu bika wa natawakkalu alaika wa nusni alaikal khair, wa nashkuruka wala nakfuruka wa nakhla-oo wa natruku mai yafjuruka, Allah humma iyyaka na\'budu wa laka nusalli wa nasjud wa ilaika nas aaa wa nahfizu wa narju rahma taka wa nakhshaa azaabaka inna azaabaka bil kuffari mulhik</item>
+        <item>O Allah! We implore You for help and beg forgiveness of You and believe in You and rely on You and extol You and we are thankful to You and are not ungrateful to You and we alienate and forsake those who disobey You. O Allah! You alone do we worship and for You do we pray and prostrate and we betake to please You and present ourselves for the service in Your cause and we hope for Your mercy and fear Your chastisement. Undoubtedly, Your torment is going to overtake infidels O Allah!</item>
+        <item>Al-Hasan bin Ali [may Allah be pleased with him] said: Allah\'s Messenger taught me some phrases to say during Al-Witr At-Tirmidhi 464, Abu Dawud: 1425</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>During a windstorm</item>
+        <item>اللّهُـمَّ إِنَّـي أَسْـأَلُـكَ خَيْـرَها، وَأَعـوذُ بِكَ مِنْ شَـرِّها</item>
+        <item>Allaahumma \'innee \'as\'aluka khayrahaa, wa \'a\'oothu bika min sharrihaa</item>
+        <item>O Allah , I ask You for the good of it and seek refuge in You against its evil.</item>
+        <item>Abu Dawud: 5084, Ibn Majah: 2252</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Istikhara</item>
+        <item>للَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمَكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ، وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ، اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ- خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي- عَاجِلِهِ وَآجِلِهِ- فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ، وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي- عَاجِلِهِ وَآجِلِهِ- فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ وَاقْدُرْ لِيَ الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ</item>
+        <item>Allaahumma \'innee \'astakheeruka bi\'ilmika, wa \'astaqdiruka biqudratika, wa \'as\'aluka min fadhtikal-\'Adheemi, fa\'innaka taqdiru wa laa \'aqdiru, wa ta\'lamu, wa laa \'a\'lamu, wa \'Anta \'Allaamul-Ghuyoobi, Allaahumma \'in kunta ta\'lamu \'anna haathal-\'amra-[then mention the thing to be decided] Khayrun lee fee deenee wa ma\'aashee wa \'aaqibati \'amree - [or say] \'Aajilihi wa \'aajilihi - Faqdurhu lee wa yassirhu lee thumma baarik lee feehi, wa \'in kunta ta\'lamu \'anna haathal-\'amra sharrun lee fee deenee wa ma\'aashee wa \'aaqibati \'amree - [or say] \'Aajilihi wa \'aajilihi - Fasrifhu \'annee wasrifnee \'anhu waqdur liyal-khayra haythu kaana thumma \'ardhinee bihi</item>
+        <item>O Allah, I seek the counsel of Your Knowledge, and I seek the help of Your Omnipotence, and I beseech You for Your Magnificent Grace. Surely, You are Capable and I am not. You know and I know not, and You are the Knower of the unseen. O Allah, if You know that this matter [then mention the thing to be decided] is good for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] - then ordain it for me and make it easy for me, then bless me in it. And if You know that this matter is bad for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] - then distance it from me, and distance me from it, and ordain for me what is good wherever it may be, and help me to be content with it. Whoever seeks the counsel of the Creator will not regret it and whoever seeks the advice of the believers will feel confident about his decisions. Allah said in the Qur\'an: "And consult them in the affair. Then when you have taken a decision, put your trust in Allah."</item>
+        <item>Jabir bin Abdullah (RA) said: The Prophet (SAW) used to teach us to seek Allah\'s Counsel in all matters, as he used to teach us a Surah from the Qur\'an. He would say: When anyone of you has an important matter to decide, let him pray two Rak\'ahs other than the obligatory prayer, and then say. Al-Bukhari 7:162</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>For Rain</item>
+        <item>اللّهُمَّ اَسْقِـنا غَيْـثاً مُغيـثاً مَريئاً مُريـعاً، نافِعـاً غَيْـرَ ضَّارٌ، عاجِـلاً غَـيْرَ آجِلٍ</item>
+        <item>Allaahumma \'asqinaa ghaythan mugheethan maree\'an maree\'an, naafi\'an ghayradhaarrin, \'aajilan ghayra \'aajilin.</item>
+        <item>O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed.</item>
+        <item>Abu Dawud 1:303</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>For the deceased at the funeral prayer - 1</item>
+        <item>اللهُـمِّ اغْفِـرْ لَهُ وَارْحَمْـه ، وَعافِهِ وَاعْفُ عَنْـه ، وَأَكْـرِمْ نُزُلَـه ، وَوَسِّـعْ مُدْخَـلَه ، وَاغْسِلْـهُ بِالْمـاءِ وَالثَّـلْجِ وَالْبَـرَدْ ، وَنَقِّـهِ مِنَ الْخطـايا كَما نَـقّيْتَ الـثَّوْبُ الأَبْيَـضُ مِنَ الدَّنَـسْ ، وَأَبْـدِلْهُ داراً خَـيْراً مِنْ دارِه ، وَأَهْلاً خَـيْراً مِنْ أَهْلِـه ، وَزَوْجَـاً خَـيْراً مِنْ زَوْجِه، وَأَدْخِـلْهُ الْجَـنَّة ، وَأَعِـذْهُ مِنْ عَذابِ القَـبْر وَعَذابِ النّـار</item>
+        <item>Allaahum-maghfir lahu warhamhu, wa \'aafihi, wa\'fu \'anhu, wa \'akrim nuzulahu, wa wassi\' mudkhalahu, waghsilhu bilmaa\'i waththalji walbaradi, wa naqqihi minal-khataayaa kamaa naqqaytath-thawbal-\'abyadha minad-danasi, wa \'abdilhu daaran khayran min daarihi, wa \'ahlan khayran min \'ahlihi, wa zawjan khayran min zawjihi, wa \'adkhilhul-jannata, wa. \'a\'ithhu min \'athaabil-qabri[wa \'athaabin-naar]</item>
+        <item>O Allah, forgive him and have mercy on him and give him strength and pardon him. Be generous to him and cause his entrance to be wide and wash him with water and snow and hail. Cleanse him of his transgressions as white cloth is cleansed of stains. Give him an abode better than his home, and a family better than his family and a wife better than his wife. Take him into Paradise and protect him from the punishment of the grave [and from the punishment of Hell-fire].</item>
+        <item>Jubair b. Nufair says: I heard it from \'Auf b. Malik that the Prophet (ﷺ) said prayer on the dead body, and I remembered his prayer. (\'Auf bin Malik) said: I earnestly desired that I were this dead body.  Sahih Muslim 963a, 963b</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>For the deceased at the funeral prayer - 2</item>
+        <item>اللهُـمِّ اغْفِـرْ لِحَيِّـنا وَمَيِّتِـنا وَشـاهِدِنا ، وَغائِبِـنا ، وَصَغيـرِنا وَكَبيـرِنا ، وَذَكَـرِنا وَأُنْثـانا . اللهُـمِّ مَنْ أَحْيَيْـتَهُ مِنّا فَأَحْيِـهِ عَلى الإِسْلام ،وَمَنْ تَوَفَّـيْتََهُ مِنّا فَتَوَفَّـهُ عَلى الإِيـمان ، اللهُـمِّ لا تَحْـرِمْنـا أَجْـرَه ، وَلا تُضِـلَّنا بَعْـدَهُ</item>
+        <item>Allaahum-maghfir lihayyinaa, wa mayyitinaa, wa shaahidinaa, wa ghaa\'ibinaa, wa sagheerinaa wa kabeerinaa, wa thakarinaa wa \'unthaanaa. Allaahumma man \'ahyaytahu minnaa fa\'ahyihi \'alal-\'Islaami, wa man tawaffaytahu minnaa fatawaffahu \'alal-\'eemaani, Allaahumma laa tahrimnaa \'ajrahu wa laa tudhillanaa ba\'dahu</item>
+        <item>O Allah forgive our living and our dead, those who are with us and those who are absent, our young and our old, our menfolk and our womenfolk. O Allah, whomever you give life from among us give him life in Islam, and whomever you take way from us take him away in Faith. O Allah, do not forbid us their reward and do not send us astray after them.</item>
+        <item>Narrated Abu Hurairah: When the Messenger of Allah صلی ‌اللہ ‌علیہ ‌وسلم prayed over a dead person, he said.  Abu Dawud: 3201, At-Tirmidhi: 1024</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>For the deceased at the funeral prayer - 3</item>
+        <item>الَّلهُـمِّ إِنَّ فُلانَ بْنَ فُلانٍ في ذِمَّـتِك ، وَحَبْـلِ جِـوارِك ، فَقِـهِ مِنْ فِتْـنَةِ الْقَـبْرِ وَعَذابِ النّـار ، وَأَنْتَ أَهْلُ الْوَفـاءِ وَالْـحَقِّ ، فَاغْفِـرْ لَهُ وَارْحَمْـهُ ، إِنَّكَ أَنْتَ الغَـفورُ الـرَّحيم</item>
+        <item>Allaahumma \'inna [name the person] fee thimmatika, wa habli jiwaarika, faqihi min fitnatil-qabri wa \'athaabin-naari, wa \'Anta \'ahlul-wafaa\'i walhaqqi. Faghfir lahu warhaw.hu \'innaka \'Antal-Ghafoorur-Raheem</item>
+        <item>O Allah, surely [name the person] is under Your protection, and in the rope of Your security, so save him from the trial of the grave and from the punishment of the Fire. You fulfill promises and grant rights, so forgive him and have mercy on him. Surely You are Most Forgiving, Most Merciful.</item>
+        <item>It was narrated that Wathilah bin Asqa’ said: “The Messenger of Allah (ﷺ) offered the funeral prayer for a man among the Muslims and I heard him say. Abu Dawud: 3202, Ibn Majah: 1499</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Lailatul Qadr</item>
+        <item>اَللَّهُمَّ اِنَّكَ عَفُوٌّ ، تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي</item>
+        <item>Allahumma innaka `afuwwun tuhibbul `afwa fa`fu `annee</item>
+        <item>O Allah You are The One Who forgives greatly, and loves to forgive, so forgive me</item>
+        <item>It was narrated from \'Aishah that she said: O Messenger of Allah, what do you think I should say in my supplication, if I come upon Laylatul-Qadr? He said. Ibn Majah: 3850, At-Tirmidhi: 3513</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Seeing crescent moon</item>
+        <item>اللهُ أَكْـبَر، اللّهُمَّ أَهِلَّـهُ عَلَيْـنا بِالأمْـنِ وَالإيمـان، والسَّلامَـةِ والإسْلامِ، وَالتَّـوْفيـقِ لِما تُحِـبُّ رَبُّنـا وَتَـرْضَـى، رَبُّنـا وَرَبُّكَ الله</item>
+        <item>Allaahu \'Akbar, Allaahumma \'ahillahu \'alayna bil\'amni wal\'eemaani, wassalaamati wal-\'Islaami, wattawfeeqi limaa tuhibbu Rabbanaa wa tardhaa, Rabbunaa wa Rabbukallaahu.</item>
+        <item>Allah is the Most Great. O Allah, bring us the new moon with security and Faith, with peace and in Islam, and in harmony with what our Lord loves and what pleases Him. Our Lord and your Lord is Allah.</item>
+        <item>At-Tirmidhi 5:504</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Settle Debt</item>
+        <item>اللّهُـمَّ اكْفِـني بِحَلالِـكَ عَنْ حَـرامِـك، وَأَغْنِـني بِفَضْـلِكِ عَمَّـنْ سِـواك</item>
+        <item>Allaahummak-finee bihalaalika \'an haraamika wa \'aghninee bifadhlika \'amman siwaaka  </item>
+        <item>O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You.</item>
+        <item>Ali [may Allah be pleased with him] narrated: that a Mukatib came to him and said: “Indeed I am not capable of my Kitabah so aid me.” He said: “Should I not teach you words that the Messenger of Allah (ﷺ) taught me? If you had a debt upon you similar to the mountain of Sir, Allah would fulfill it for you. He said.  At-Tirmidhi: 3563</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>When a loss occurs</item>
+        <item>إِنَّا لِلّهِ وَإِنَّـا إِلَيْهِ رَاجِعونَ</item>
+        <item>"Inna lillahi wa inna ilayhi raajioon"</item>
+        <item>"Indeed we belong to Allah , and indeed to Him we will return."</item>
+        <item>Surah Al-Baqarah 2:156</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>For Deceased	</item>
+        <item>"اللَّهُمَّ اغْفِرْ لَهُ الَّلهُمَّ ثَبِّتْهُ"</item>
+        <item>"Allaahum-maghfir lahu Allaahumma thabbithu"</item>
+        <item>"O Allah, forgive him. O Allah, strengthen him."</item>
+        <item>The Prophet (peace be upon him) used to stop after burying the dead and say to the people: "Ask Allah to forgive your brother and pray for him to be strengthened, for indeed he is now being questioned."  Abu Dawud 3:315</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>For Deceased 2</item>
+        <item>اللهُـمِّ اغْفِـرْ لِـ-فُلاَنٍ (باسـمه)وَارْفَعْ دَرَجَتََـهُ فِي المَهْـدِيّيـنَ ، وَاخْـلُفْـهُ في عَقِـبِهِ في الغَابِِـرِينَ، وَاغْفِـرْ لَنَا وَلَـهُ يا رَبَّ العـالَمـين، وَافْسَـحْ لَهُ في قَبْـرِهِ وَنَـوِّرْ لَهُ فِيهِ </item>
+        <item>Allaahummaghfir li (name of the person) warfa\' darajatahu fil-mahdiyyeena, wakhlufhu fee \'aqibihi fil-ghaabireena , waghfir-lanaa wa lahu yaa Rabbal-\'aalameena, wafsah lahu fee qabrihi wa nawwir lahu feehi 	</item>
+        <item>O Allah, forgive [name of the person] and elevate his station among those who are guided. Send him along the path of those who came before, and forgive us and him, O Lord of the worlds. Enlarge for him his grave and shed light upon him in it.                                         	</item>
+        <item>Muslim 2:634</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Visiting Grave</item>
+        <item>السَّلَامُ عَلَيْكُمُ أَهْلَ الدِّيَارِ مِنَ الْمُؤْمِنِينَ وَالْمُسْلِمِينَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَاحِقُونَ نَسْأَلُ اللَّهَ لَنَا وَلَكُمُ الْعَافِيَةَ</item>
+        <item>Assalaamu \'alaykum \'ahlad-diyaari, minal-mu\'mineena walmuslimeena, wa \'innaa \'in shaa\' Allaahu bikum laahiqoona [wa yarhamullaahul-mustaqdimeena minnaa walmusta\'khireena] \'as\'alullaaha lanaa wa lakumul- \'aafiyata.</item>
+        <item>Oh Muslims residing here, salaams on you, by the will of Allah we will also be coming to you. We seek safety for us and you.</item>
+        <item>Muslim 2:671, Ibr Majah 1:494</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Visiting Sick</item>
+        <item>"لَا بَأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ"</item>
+        <item>"Laa ba\'sa tahoorun \'inshaa\'Allaah."</item>
+        <item>"Do not worry, it will be a purification (for you), Allah willing."</item>
+        <item>Fathul-Bari 10:118</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Visiting Sick 2</item>
+        <item>"أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ"</item>
+        <item>"As\'alullaahal-\'Adheema Rabbal-\'Arshil-\'Adheemi \'an yashfiyaka."</item>
+        <item>I ask Allah who is the Lofty and the Lord of the Mighty Throne that He cures you :(Prophet Mohammad (SAW.) said that by reciting this dua seven times, the ill person will regain his health and if death occurs then that (death) is a different issue (i.e. death is written it cannot be prevented))</item>
+        <item>At-Tirmidhi 2:210</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Entering a city	</item>
+        <item>اللَّهُمَّ رَبَّ السَّمَوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ الأَرَضِينَ السَّبْعِ وَمَا أَقْلَلْنَ، وَرَبَّ الشَّياطِينِ وَمَا أَضْلَلْنَ، وَرَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ، أَسْأَلُكَ خَيْرَ هَذِهِ الْقَرْيَةِ، وَخَيْرَ أَهْلِهَا، وَخَيْرَ مَا فِيهَا، وَأَعُوذُ بِكَ مِنْ شَرِّهَا، وَشَرِّ أَهْلِهَا، وَشَرِّ مَا فِيهَا</item>
+        <item>Allaahumma Rabbas-samaawaatis-sab\'i wa maa \'adhlalna, wa Rabbal-\'aradheenas-sab\'i wa maa \'aqlalna, wa Rabbash-shayaateeni wa maa \'adhlalna, wa Rabbar-riyaahi wa maa tharayna. \'As\'aluka khayra haathihil-qaryati wa khayra \'ahlihaa, wa khayra maafeehaa, wa \'a\'oothu bika min sharrihaa, wa sharri \'ahlihaa, wa shard maa feehaa.</item>
+        <item>O Allah, Lord of the seven heavens and all they overshadow, Lord of the seven worlds and all they uphold, Lord of the devils and all they lead astray, Lord of the winds and all they scatter. I ask You for the goodness of this town and for the goodness of its people, and for the goodness it contains. I seek refuge in You from its evil, from the evil of its people and from the evil it contains.</item>
+        <item>Al-Hakim who graded it authentic and Ath-Tfaahabi agreed 2/100, and Ibn As-Sunni (no. 524). Al-Hafidh graded it good in his checking of Al-\'Athkdr 5/154. Ibn Baz said in Tuhfatul-\'Akhydr p. 37, that An-Nasa\'i recorded it with a good chain of narration.</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>When frightened</item>
+        <item>لا إلهَ إلاّ اللّهُ </item>
+        <item>Laa \'ilaaha \'illallaah</item>
+        <item>There is none worthy of worship but Allah</item>
+        <item>Al-Bukhari, cf. Al-Asqalani, Fathul-Bari 6/181, Muslim 4/2208</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Slaughtering Animal</item>
+        <item>بِسْمِ اللهِ واللهُ أَكْبَرُ اللَّهُمَّ مِنْكَ ولَكَ اللَّهُمَّ تَقَبَّلْ مِنِّي </item>
+        <item>Bismillaahi wallaahu \'Akbar [Allaahumma minka wa laka] Allaahumma taqabbal minnee</item>
+        <item>With the Name of Allah, Allah is the Most Great! [O Allah, from You and to You.] O Allah, accept it from me.</item>
+        <item>Muslim 3/ 1557, Al-Bayhaqi 9/287.</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>What to say to foil the devil\'s plots</item>
+        <item>أَعُوذُ بكَلِمَاتِ اللهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلاَ فَاجرٌ مِنْ شّرِّ مَا خَلقَ، وبَرَأَ وذَرَأَ، ومِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ وِمنْ شَرِّ مَا يَعْرُجُ فيهَا، ومِن شَرِّ مَا ذَرَأَ في الأَرْضِ ومِنْ شَرِّ مَا يَخْرُجُ مِنْهَا، وِمنْ شَرِّ فِتَنِ اللَّيْلِ والنَّهارِ، ومِنْ شَرِّ كُلِّ طارِقٍ إِلَّا طَارِقاً يَطْرُقُ بخَيْرٍ يَا رَحْمَنُ</item>
+        <item>A\'oothu bikalimaatil-laahit-taammaatil-latee laa yujaawizuhunna barrun wa laa faajimn min sharri maa khalaqa, wa bara\'a wa thara\'a, wa min sharri maa yanzilu minas-samaa\'i, wa min sharri maa ya\'ruju feehaa, wa min sharri maa thara\'a fil-\'ardhi, wa min sharri ma yakhruju minhaa, wa min sharri fitanil-layli wannahaari, wa min sharri kulli taariqin \'illaa taariqan yatruqu bikhayrin yaa Rahmaan.</item>
+        <item>I seek refuge in the Perfect Words of Allah -which neither the upright nor the corrupt may overcome - from the evil of what He created, of what He made, and of what He scattered, from the evil of what descends from the heavens, and of what rises up to them, from the evil of what He scattered in the earth and of what emerges from it, from the evil trials of night and day, and from the evil of every night visitor, except the night visitor who comes with good. O Merciful One</item>
+        <item>Ahmad 3/419, with an authentic chain of narration, and Ibn As-Sunni (no. 637). Al-Arna\'ut, graded its chain authentic in his checking of Al-\'Aqidah At-Tahawiyyah p. 133. See also Majma\'uz-Zawa\'id, 10/127</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Upon encountering an enemy or those of authority</item>
+        <item>"اللّهُـمَّ أَنْتَ عَضُـدي، وَأَنْتَ نَصـيري، بِكَ أَجـولُ وَبِكَ أَصـولُ وَبِكَ أُقـاتِل"</item>
+        <item>Allaahumma \'Anta \'adhudee, wa \'Anta naseeree, bika \'ajoolu, wa bika \'asoolu, wa bika \'uqaatilu</item>
+        <item>O Allah, You are my strength and You are my support. For Your sake I go forth and for Your sake I advance and for Your sake I fight</item>
+        <item>Abu Dawud 3/42, At-Tirmithi 5/572. See also Al-Albani, Sahih At-Tirmithi 3/183.</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Upon encountering an enemy or those of authority 2</item>
+        <item>اللّهُـمَّ إِنا نَجْـعَلُكَ في نُحـورِهِـم، وَنَعـوذُ بِكَ مِنْ شُرورِهـمْ </item>
+        <item>"Allaahumma \'innaa naj\'aluka fee nuhoorihim wa na\'oothu bika min shuroorihim"</item>
+        <item>O Allah , we ask You to restrain them by their necks and we seek refuge in You from their evil.</item>
+        <item>Abu Dawud 2/89, and Al-Hakim graded it authentic and Ath-Thahabi agreed 2/142</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Invocations against the oppression of rulers</item>
+        <item>اللَّهُمَّ ربَّ السَّمَوَاتِ السَّبْعِ، وَرَبَّ الْعَرْشِ الْعَظِيمِ، كُنْ لِي جَاراً مِنْ فُلاَنِ بْنِ فُلاَنٍ، وَأَحْزَابِهِ مِنْ خَلاَئِقِكَ، أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ يَطْغَى، عَزَّ جَارُكَ، وَجَلَّ ثَنَاؤُكَ، وَلاَ إِلَهَ إِلاَّ أَنْتَ</item>
+        <item>Allaahumma Rabbas-samaawaatis-sab\'i, wa Rabbal-\'Arshil-\'Adheem, kun lee jaaran min [here you mention the person\'s name], wa \'ahzaabihi min khalaa\'iqika, \'an yafruta \'alayya \'ahadun minhum \'aw yatghaa, \'azzajaaruka, wajalla thanaa\'uka, wa laa \'ilaaha \'illaa \'Anta</item>
+        <item>O Allah , Lord of the seven heavens , Lord of the Magnificent Throne , be for me a support against [such and such a person] and his helpers from among your creatures, lest any of them abuse me or do me wrong. Mighty is Your patronage and glorious are Your praises. There is none worthy of worship but You</item>
+        <item>Al-Bukhari, Al-\'Adab Al-Mufrad (no. 707). Al-Albani graded it authentic in Sahih Al-\'Adab Al-Mufrad (no. 545)</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Invocation against an enemy</item>
+        <item>"اللَّهُمَّ مُنْزِلَ الْكِتَاب, سَرِيعَ الْحِسَاب, اللَّهُمَّ اهْزِمْهُمْ وَزَلْزِلْهُم"	</item>
+        <item>Allaahumma munzilal-kitaabi, saree\'al-hisaabi, ihzimil-\'ahzaaba, Allaahumma ihzimhum wa zalzilhum</item>
+        <item>Allah, Revealer of the Book, Swift to account , defeat the groups (of disbelievers) . O Allah , defeat them and shake them</item>
+        <item>Muslim 3/1362</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Invocation for when it thunders</item>
+        <item>"سُبْـحانَ الّذي يُسَبِّـحُ الـرَّعْدُ بِحَمْـدِهِ، وَالملائِكـةُ مِنْ خيـفَته"	</item>
+        <item>Subhaanal-lathee yusabbihur-ra\'du bihamdihi walmalaa\'ikatu min kheefatihi</item>
+        <item>Glory is to Him Whom thunder and angels glorify due to fear of Him</item>
+        <item>Whenever Abdullah bin Zubair (RA) would hear thunder, he would abandon all conversation and say this supplication. See Al-Muwatta\' 2/992. It was graded authentic by Al-Albani as a statement of Abdullah bin Zubayr only</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Guest\'s invocation for his host</item>
+        <item>"اللّهُـمَّ بارِكْ لَهُمْ فيما رَزَقْـتَهُم، وَاغْفِـرْ لَهُـمْ وَارْحَمْهُمْ"</item>
+        <item>Allaahumma baarik lahum feemaa razaqtahum, waghfir lahum warhamhum</item>
+        <item>O Allah , bless them in what You have provided for them , and forgive them and have mercy on them</item>
+        <item>Muslim 3/1615</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>To the newlywed</item>
+        <item>ارَكَ اللّهُ لَك، وَبارَكَ عَلَـيْك، وَجَمَعَ بَيْـنَكُما في خَـيْر </item>
+        <item>Baarakallaahu laka, wa baaraka \'alayka, wa jama\'a baynakumaa fee khayrin</item>
+        <item>"May Allah bless you, and shower His blessings upon you , and join you together in goodness"</item>
+        <item>Abu Dawud, Ibn Majah and At-Tirmithi. See also Al-Albani, Sahih At-Tirmithi 1/316</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>For fear of shirk</item>
+        <item>"اللّهُـمَّ إِنّـي أَعـوذُبِكَ أَنْ أُشْـرِكَ بِكَ وَأَنا أَعْـلَمْ،
+وَأَسْتَـغْفِرُكَ لِما لا أَعْـلَم"</item>
+        <item>Allaahumma \'innee \'a\'oothu bika \'an \'ushrika bika wa \'anaa \'a\'lamu, wa \'astaghfiruka limaa laa \'a\'lamu</item>
+        <item>O Allah, I seek refuge in You lest I associate anything with You knowingly, and I seek Your forgiveness for what I know not </item>
+        <item>Ahmad 4/403. See also Al-Albani, Sahihul-Jami\' As-Saghir 3/233 and Sahihut-Targhib wat- Tarhib 1/19</item>
+        <item>1</item>
+        <item>transition</item>
+
+        <item>Invocation against evil portent</item>
+        <item>"اللّهُـمَّ لا طَيْـرَ إِلاّ طَيْـرُك، وَلا خَـيْرَ إِلاّ خَـيْرُك، وَلاإِلهَ غَيْـرُك"</item>
+        <item>Allaahumma laa tayra \'illaa tayruka, wa laa khayra \'illaa khayruka, wa laa \'ilaaha ghayruka</item>
+        <item>"O Allah there is no portent other than Your portent, no goodness other than
+Your goodness, and none worthy of worship other than You"</item>
+        <item>As for bodings of good, these used to please the Prophet (SAW) and so when he heard good words from someone, he used to say: "We have taken from you a good portent from your mouth," Abu Dawud, Ahmad. Ahmad 2/220, Ibn As-Sunni (no. 292). See also Al-Albani, Silsilatul-\'Ahadlth As-Sahihah 3/54, (no. 1065) See also Al-Albani, Silsilatul-\'Ahadith As-Sahihah 2/363, and it is with Abu Ash-Shaikh Al-Asfahani in \'Akhlaqun-Nabiyy, pg. 270</item>
+        <item>1</item>
+        <item>transition</item>
 
     </string-array>
 </resources>

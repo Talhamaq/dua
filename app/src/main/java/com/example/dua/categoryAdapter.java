@@ -47,13 +47,13 @@ public class categoryAdapter extends
     
         @Override
         public void onClick(View v) {
-        System.out.println("TEST");
             Intent intent=(new Intent(categoryAdapter.t, MEList.class));
+            
            // Bundle bundle = new Bundle();
             //bundle.putParcelableArrayList("list", duaForCategory);
             //intent.putExtras(bundle);
-            intent.putExtra("subCategory", subCategory);
-            intent.putExtra("subCategoryParent", subCategoryParent);
+            intent.putExtra("subCategory", categoryName.getText());
+            intent.putExtra("name", subCategoryParent);
             t.startActivity(intent);
         }
     }

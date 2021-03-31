@@ -60,6 +60,22 @@ public class duaPage extends AppCompatActivity {
             whenToRead.setText("Recite " + dua.getCount() + " times after Fajr Salah and after Asr Salah");
             appBar.setTitle("Morning/Evening Duas");
         }
+        else if(dua.getCategory().equals("Daily")){
+            whenToRead.setVisibility(View.INVISIBLE);
+            appBar.setTitle("Daily Duas");
+        }
+        else if(dua.getCategory().equals("special")){
+            whenToRead.setVisibility(View.INVISIBLE);
+            appBar.setTitle("Special Duas");
+        }
+        else if(dua.getCategory().equals("after_prayer")){
+            whenToRead.setText(dua.getCount());
+            appBar.setTitle("Duas after prayer");
+        }
+        else if(dua.getCategory().equals("prophet")){
+            whenToRead.setVisibility(View.INVISIBLE);
+            appBar.setTitle("Prophet Duas");
+        }
         arabic.setText(dua.getArabic());
         arabish.setText(dua.getArabish());
         translation.setText(dua.getTranslation());

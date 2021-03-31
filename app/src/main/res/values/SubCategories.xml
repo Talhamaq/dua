@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="s_c_Array">
+        <item>Daily</item>
+        <item>For thanking Allah (SWT)</item>
+        <item>5</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For seeking Allah\'s help</item>
+        <item>5</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For Rizq</item>
+        <item>2</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For righteous company</item>
+        <item>4</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For protection</item>
+        <item>15</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For parents</item>
+        <item>3</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For Jannah</item>
+        <item>3</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For forgiveness</item>
+        <item>15</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For being grateful </item>
+        <item>3</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For home and family</item>
+        <item>5</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Garment</item>
+        <item>5</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>For fasting</item>
+        <item>2</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Restroom</item>
+        <item>4</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Sleep</item>
+        <item>3</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Masjid</item>
+        <item>2</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Anger</item>
+        <item>2</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Eating</item>
+        <item>2</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Difficult Times</item>
+        <item>5</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Oppression</item>
+        <item>2</item>
+        <item>transition</item>
+
+        <item>Daily</item>
+        <item>Miscellaneous</item>
+        <item>12</item>
+        <item>transition</item>
+
+    </string-array>
+</resources>

@@ -1,6 +1,7 @@
 package com.example.dua;
 
 public class categoryModel {
+    String parentCategory;
     String subCategory;
     int numDuas;
     
@@ -12,7 +13,6 @@ public class categoryModel {
         this.parentCategory = parentCategory;
     }
     
-    String parentCategory;
     
     
     public categoryModel(String category, int numDuas, String parentCategory) {

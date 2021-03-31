@@ -152,7 +152,7 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
-            android:id="@+id/dhikr"
+            android:id="@+id/afterPrayer"
             android:layout_width="0dp"
             android:layout_height="0dp"
             android:layout_rowWeight="1"
@@ -180,7 +180,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="51dp"
-                    android:text="Dhikr Dua"
+                    android:text="Dua after Prayer"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="18sp"
@@ -247,14 +247,17 @@
 
                 <ImageView
                     android:layout_width="wrap_content"
-                    android:layout_height="83dp"
+                    android:layout_height="90dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@mipmap/hard" />
+                    android:src="@drawable/baseline_favorite_black_48"
+                    android:scaleType="fitCenter"
+                    android:adjustViewBounds="true"
+                    />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="57dp"
-                    android:text="Dua for hard times"
+                    android:text="Favorite Dua"
                     android:textAlignment="center"
                     android:textColor="@android:color/black"
                     android:textSize="18sp"

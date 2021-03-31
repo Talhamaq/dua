@@ -73,7 +73,7 @@ class CustomAdapter extends BaseAdapter {
             imageView.setImageResource(R.mipmap.daily);
         else if(dua.getCategory().equals("special"))
             imageView.setImageResource(R.mipmap.rain);
-        else if(dua.getCategory().equals("Dhikr"))
+        else if(dua.getCategory().equals("after_prayer"))
             imageView.setImageResource(R.mipmap.kaaba);
         else if(dua.getCategory().equals("Prophets"))
             imageView.setImageResource(R.mipmap.hands);
